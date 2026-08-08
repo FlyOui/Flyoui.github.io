@@ -16,10 +16,9 @@ const spaceGrotesk = Space_Grotesk({
 })
 
 export const metadata: Metadata = {
-  title: 'BRAND NAME — Premium Independent Apparel',
+  title: 'Fly Oui — Premium Independent Apparel',
   description:
     'High-quality, independently designed t-shirts and hoodies. Shop the collection on Etsy and eBay.',
-  generator: 'v0.app',
   icons: {
     icon: [
       {
