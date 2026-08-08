@@ -59,7 +59,7 @@ export function ProductGrid() {
           </h2>
         </div>
         <p className="max-w-sm text-sm leading-relaxed text-muted-foreground text-pretty">
-          Each piece is limited-run and sold through our verified Etsy and eBay storefronts. Tap a
+          Most pieces are limited-run and sold through our verified Etsy and eBay storefronts. Tap a
           product to buy where you shop.
         </p>
       </div>
