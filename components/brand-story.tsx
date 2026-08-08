@@ -35,7 +35,9 @@ export function BrandStory() {
             <p>
               Every design begins with a simple idea and ends as a limited run. No mass
               production, no filler, no throwaway drops. Just considered pieces we&apos;d proudly
-              wear ourselves.
+              wear ourselves. Not mass-produced. Not symmetrical. Not sorry. Each piece carries its own unique marks 
+              from the making process, making your shirt truly one-of-a-kind. Raw, irregular, and entirely unique to you.
+               Wear the discrepancy. The slight variations aren't mistakes—they're the signature.
             </p>
           </div>
 

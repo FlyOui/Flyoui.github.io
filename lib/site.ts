@@ -31,20 +31,20 @@ export type Product = {
 export const PRODUCTS: Product[] = [
   {
     id: 'midnight-tee',
-    title: 'Midnight Oversized Tee',
+    title: 'White Oversized Tee',
     type: 'T-Shirt',
     description:
-      'Boxy, drop-shoulder cut in off-white heavyweight cotton. Understated by day, statement by night.',
+      'Boxy, drop-shoulder cut in off-white heavyweight cotton. Baggy fit to feel the cool breeze in summer.',
     image: '/images/product-tee-1.png',
     etsyUrl: '#', // <-- Etsy listing
     ebayUrl: '#', // <-- eBay listing
   },
   {
     id: 'core-hoodie',
-    title: 'Core Heavyweight Hoodie',
+    title: 'Large Print Hoodie',
     type: 'Hoodie',
     description:
-      'Our signature 450gsm brushed fleece with a structured hood and matte drawcords. Built to outlast trends.',
+      '350gsm 100% Heavy cottom with a structured hood and matte drawcords. Built to outlast trends.',
     image: '/images/product-hoodie-1.png',
     etsyUrl: '#',
     ebayUrl: '#',
@@ -54,27 +54,27 @@ export const PRODUCTS: Product[] = [
     title: 'Static Graphic Tee',
     type: 'T-Shirt',
     description:
-      'Deep black cotton with a hand-drawn red chest mark. Screen printed in small batches for a lived-in feel.',
+      'Dark grey cotton with large print black logo on chest. Vinyl pressed in small batches for a lived-in feel.',
     image: '/images/product-tee-2.png',
     etsyUrl: '#',
     ebayUrl: '#',
   },
   {
     id: 'eclipse-hoodie',
-    title: 'Eclipse Zip Hoodie',
+    title: 'White Zip Hoodie',
     type: 'Hoodie',
     description:
-      'Cream-toned full-zip with a garment-dyed finish and antique metal hardware. Layer-ready year round.',
+      'Cream-toned full-zip, front pockets, with a discrete pocket sized logo. Layer-ready year round.',
     image: '/images/product-hoodie-2.png',
     etsyUrl: '#',
     ebayUrl: '#',
   },
   {
-    id: 'faded-tee',
-    title: 'Faded Wash Tee',
+    id: 'Strap-tee',
+    title: 'Classic Imperfect Tee',
     type: 'T-Shirt',
     description:
-      'Stone-washed grey with a vintage back print. Every piece fades a little differently — that is the point.',
+      'Hand-finished. Intentionally flawed. No two alike. Made by hand, not by algorithm. Embrace the subtle flaws—thats where the character lives. This vinyl tee is raw, irregular, and entirely unique to you. Wear the discrepancy.  .',
     image: '/images/product-tee-3.png',
     etsyUrl: '#',
     ebayUrl: '#',
@@ -84,7 +84,7 @@ export const PRODUCTS: Product[] = [
     title: 'Shadow Pullover Hoodie',
     type: 'Hoodie',
     description:
-      'Oversized black pullover with a tonal red embroidered logo. Heavyweight comfort with a sharp silhouette.',
+      'Oversized black pullover with small discrete white logo. Heavyweight comfort 100% cotton.',
     image: '/images/product-hoodie-3.png',
     etsyUrl: '#',
     ebayUrl: '#',
