@@ -74,7 +74,7 @@ export const PRODUCTS: Product[] = [
     title: 'Classic Imperfect Tee',
     type: 'T-Shirt',
     description:
-      'Hand-finished. Intentionally flawed. No two alike. Made by hand, not by algorithm. Embrace the subtle flaws, thats where the character lives. This vinyl tee is raw, irregular, and entirely unique to you. Wear the discrepancy.',
+      'Intentionally flawed. No two alike. Finished by hand, not by algorithm. Embrace the subtle flaws, thats where the character lives. This vinyl tee is raw, irregular, and entirely unique to you. Wear the discrepancy.',
     image: '/images/product-tee-3.png',
     etsyUrl: '#',
     ebayUrl: '#',
